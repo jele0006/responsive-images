@@ -3,6 +3,7 @@ body{
 	margin: 0;
 	box-sizing: border-box;
 	line-height: 1.5;
+    background-color: #888;
 }
 ul {
   list-style: none;
@@ -21,7 +22,10 @@ img:hover {
   z-index: 20;
 }
 h1 {
-    margin-left: 1rem;
+    padding-left: 1rem;
+    background-color: #666;
+    text-shadow: 2px 2px #888;
+    
 }
 
 /*************************
